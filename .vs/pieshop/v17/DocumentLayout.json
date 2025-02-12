@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkumar\\Documents\\trainings\\pishop\\pieshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005AE526-E0E7-44AF-A57D-FFD7CACCE835}|pieshop\\pieshop.csproj|c:\\users\\dkumar\\documents\\trainings\\pishop\\pieshop\\pieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{005AE526-E0E7-44AF-A57D-FFD7CACCE835}|pieshop\\pieshop.csproj|solutionrelative:pieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AE526-E0E7-44AF-A57D-FFD7CACCE835}|pieshop\\pieshop.csproj|c:\\users\\dkumar\\documents\\trainings\\pishop\\pieshop\\pieshop\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AE526-E0E7-44AF-A57D-FFD7CACCE835}|pieshop\\pieshop.csproj|solutionrelative:pieshop\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dkumar\\Documents\\trainings\\pishop\\pieshop\\pieshop\\appsettings.json",
+              "RelativeDocumentMoniker": "pieshop\\appsettings.json",
+              "ToolTip": "C:\\Users\\dkumar\\Documents\\trainings\\pishop\\pieshop\\pieshop\\appsettings.json",
+              "RelativeToolTip": "pieshop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T15:13:13.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dkumar\\Documents\\trainings\\pishop\\pieshop\\pieshop\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "pieshop\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dkumar\\Documents\\trainings\\pishop\\pieshop\\pieshop\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "pieshop\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:10:41.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
